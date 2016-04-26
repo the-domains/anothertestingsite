@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.5710672
+  lightness: 0.7364314
+  brandStrength: 0.8426423
+  brandColors:
+    - '#96A2A2'
+    - '#7C7764'
+    - '#040603'
+    - '#417FD4'
+    - '#353326'
+  rhythmicContrast: 0.004691774
+typography_spectrum: 0.787294
+name: Anothertestingsite
